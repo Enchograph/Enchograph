@@ -1,8 +1,8 @@
 
 ## 武汉大学 - 陈宏宇   Wuhan University - Chen Hongyu
-00 后 山西省实验中学 WHU 物理竞赛 计算机科学专业
+00 后      山西省实验中学      WHU      物理竞赛      计算机科学专业
 
-<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+<img align="right" alt="GIF" src="./images/code.gif" width="230" height="100%" />
 
 ### 关于我
 
