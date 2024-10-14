@@ -15,41 +15,7 @@
 <br><br><br>
 
 ## 数据统计
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2030%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
-
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   60 commits          █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Tuesday                  80 commits          ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-Wednesday                63 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Thursday                 34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Saturday                 43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Sunday                   21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
-<!--END_SECTION:waka-->
 
 <!--   stats + languages -->
  
