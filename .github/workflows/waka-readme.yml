@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: waka_11432a8c-2d97-449c-8ca1-ed3af853dd50
+          WAKATIME_API_KEY: waka_a924ea09-c8ca-4493-a8f7-2fc89dbb04bd
           GH_TOKEN: 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
           SHOW_LANGUAGE: "True"
           SHOW_LINES_OF_CODE: "True"
