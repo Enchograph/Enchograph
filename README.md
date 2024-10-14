@@ -1,20 +1,18 @@
+<br><br><br>
+<br><br><br>
+<br><br><br>
 
-# 武汉大学 - 陈广隰   Wuhan University - Chen Guangxi
-
-
-## 关于我
-
-<div align='center' ><font size='70'>00 后  山西省实验中学  WHU  物理竞赛  计算机科学专业</font></div>
-
-# 
-
-<div align='center' ><font size='90'>希望探索世界未知</font></div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=40&letterSpacing=center&duration=2000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+There.;This+is+Chen+Hongyu.;Hoping+to+explore+the+worlds+unknown.;Nice+to+meet+you." alt="Typing SVG" /></a>
 
 
 <br><br><br>
+<br><br><br>
+<br><br><br>
+## 关于我
 
+<div align='center' ><font size='70'>00 后 · 山西省实验中学 · WHU · 物理竞赛 · 计算机科学专业</font></div>
 
-
+<br><br><br>
 
 ## 数据统计
 <!--START_SECTION:waka-->
@@ -55,7 +53,8 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 
 <!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
+ 
+|令德令才  实验实知                                                                                                                        |自强弘毅  求是拓新                                                                                                            |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Enchograph's github stats](https://github-readme-stats.vercel.app/api?username=Enchograph&show_icons=true&theme=vue&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph&theme=vue&layout=compact) |
 
