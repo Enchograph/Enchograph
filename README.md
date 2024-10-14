@@ -18,7 +18,7 @@
 ### Github 活跃度
 
 
-<img align="right" alt="GIF" src="./images/code.gif" width="400" height="100%" />
+<img align="right" alt="GIF" src="./images/code.gif" width="350" height="100%" />
 
 [![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Enchograph's github stats](https://github-readme-stats.vercel.app/api?username=Enchograph&show_icons=true&theme=vue)
