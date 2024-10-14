@@ -12,6 +12,9 @@
 <br><br><br>
 <br><br><br>
 <div align='center' ><font size=5>00 后 · 山西省实验中学 · WHU · 物理竞赛 · 计算机科学专业</font></div>
+<br>
+<div align='center' ><font size=5>令德令才 · 实验实知 · 自强弘毅 · 求是拓新</font></div>
+
 
 <br><br><br>
 <br><br><br>
@@ -21,12 +24,21 @@
 
 <!--   stats + languages -->
  
-|令德令才  实验实知                                                                                                                        |自强弘毅  求是拓新                                                                                                            |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Enchograph's github stats](https://github-readme-stats.vercel.app/api?username=Enchograph&show_icons=true&theme=vue&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph&theme=vue&layout=compact) |
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Enchograph" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Enchograph"></img>
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Enchograph" />
+</div>
+
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Enchograph&theme=minimal" />
+</div>
 
 <!--   green snake -->
 ![Enchograph's github activity graph](https://raw.githubusercontent.com/Enchograph/Enchograph/output/github-contribution-grid-snake.svg)
