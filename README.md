@@ -26,22 +26,19 @@
  
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Enchograph" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph&layout=compact&langs_count=8" />
+<img height="120px" src="https://github-readme-stats.vercel.app/api?username=Enchograph" /><span>  </span><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph&layout=compact&langs_count=8" /><span>  </span><img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=Enchograph" />
 <span>  </span>
 </div>
 
-
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Enchograph" />
-</div>
-
-
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Enchograph&theme=minimal" />
-</div>
-
 <!--   green snake -->
-![Enchograph's github activity graph](https://raw.githubusercontent.com/Enchograph/Enchograph/output/github-contribution-grid-snake.svg)
+    <img src="https://raw.githubusercontent.com/Enchograph/Enchograph/output/github-contribution-grid-snake.svg" />
+</div>
+
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enchograph&theme=react&bg_color=000000&color=ffffff" />
+</div>
 
 
 
