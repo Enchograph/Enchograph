@@ -15,18 +15,55 @@
 
 
 
-### Github 活跃度
+
+## 数据统计
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2030%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   60 commits          █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Tuesday                  80 commits          ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+Wednesday                63 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Thursday                 34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Saturday                 43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Sunday                   21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+```
 
 
-<img align="right" alt="GIF" src="./images/code.gif" width="auto" height="100%" />
+📊 **This Week I Spent My Time On** 
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Enchograph's github stats](https://github-readme-stats.vercel.app/api?username=Enchograph&show_icons=true&theme=vue)
+```text
+🕑︎ Time Zone: Asia/Shanghai
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph&layout=compact&langs_count=6)
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-<!--   GitHub stats graph -->
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 06/06/2024 16:38:43 UTC
+<!--END_SECTION:waka-->
+
+<!--   stats + languages -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![Enchograph's github stats](https://github-readme-stats.vercel.app/api?username=Enchograph&show_icons=true&theme=vue&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph&theme=vue&layout=compact) |
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Enchograph"></img>
+
+<!--   green snake -->
+![Enchograph's github activity graph](https://raw.githubusercontent.com/Enchograph/Enchograph/output/github-contribution-grid-snake.svg)
 
 
 
@@ -34,15 +71,8 @@
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake ![](https://github.com/Enchograph/Enchograph/blob/output/github-contribution-grid-snake.svg) -->
 
 
-<!--   skyline 
-<a href="https://skyline.github.com/Enchograph/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
 
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/Enchograph-->
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=Enchograph" width="auto"></img>
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/Enchograph-->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Enchograph&show-other-skills=true" width="auto"></img>
