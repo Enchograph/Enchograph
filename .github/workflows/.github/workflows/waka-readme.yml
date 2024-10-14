@@ -1,0 +1,25 @@
+# Visits https://github.com/anmol098/waka-readme-stats for details.
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12.30am in UTC+8
+    - cron: "30 16 * * *"
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: waka_11432a8c-2d97-449c-8ca1-ed3af853dd50
+          GH_TOKEN: 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
+          SHOW_LANGUAGE: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROJECTS: "False"
+          SHOW_COMMIT: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_PROFILE_VIEWS: "False"
