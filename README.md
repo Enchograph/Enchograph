@@ -1,33 +1,24 @@
 
-## 武汉大学 - 陈宏宇   Wuhan University - Chen Hongyu
-00 后      山西省实验中学      WHU      物理竞赛      计算机科学专业
+# 武汉大学 - 陈广隰   Wuhan University - Chen Guangxi
 
-<img align="right" alt="GIF" src="./images/code.gif" width="330" height="100%" />
 
-### 关于我
+## 关于我
 
-我是陈宏宇
+<div align='center' ><font size='70'>00 后  山西省实验中学  WHU  物理竞赛  计算机科学专业</font></div>
 
-某知名视频站的不知名 [UP 主](https://space.bilibili.com/501072171)
+# 
 
-在山西省实验中学度过最美好的高中三年
-
-就读于武汉大学计算机专业
-
-热衷钻研与计算机有关的一切：
-
-前端开发、平面设计、影片制作、游戏建模...
-
-白日梦想：
-
-带着相机和好心情 与喜欢的人环游世界
-
-请多指教！
+<div align='center' ><font size='90'>希望探索世界未知</font></div>
 
 
 <br><br><br>
 
+
+
 ### Github 活跃度
+
+
+<img align="right" alt="GIF" src="./images/code.gif" width="400" height="100%" />
 
 [![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Enchograph's github stats](https://github-readme-stats.vercel.app/api?username=Enchograph&show_icons=true&theme=vue)
@@ -36,20 +27,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph&layout=compact&langs_count=6)
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
-![Enchograph's github activity graph](https://raw.githubusercontent.com/Enchograph/Enchograph/output/github-contribution-grid-snake.svg)
-<!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Enchograph's github stats](https://github-readme-stats.vercel.app/api?username=Enchograph&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph&theme=radical&layout=compact) |
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Enchograph"></img>
 
-<!-- dark snake -->
-![Enchograph's github activity graph](https://raw.githubusercontent.com/Enchograph/Enchograph/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
