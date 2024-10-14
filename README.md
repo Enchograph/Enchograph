@@ -9,10 +9,10 @@
 <br><br><br>
 <br><br><br>
 ## 关于我
-
-<div align='center' ><font size='70'>00 后 · 山西省实验中学 · WHU · 物理竞赛 · 计算机科学专业</font></div>
-
 <br><br><br>
+<br><br><br>
+<div align='center' ><font size=5>00 后 · 山西省实验中学 · WHU · 物理竞赛 · 计算机科学专业</font></div>
+
 <br><br><br>
 <br><br><br>
 
