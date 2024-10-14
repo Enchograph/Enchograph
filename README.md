@@ -37,7 +37,7 @@
 
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enchograph&theme=react&bg_color=000000&color=ffffff" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enchograph&bg_color=fffffF&color=0a0a10&line=36BCF7&point=607090" />
 </div>
 
 
