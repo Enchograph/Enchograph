@@ -15,7 +15,6 @@
 <br>
 <div align='center' ><font size=5>令德令才 · 实验实知 · 自强弘毅 · 求是拓新</font></div>
 
-
 <br><br><br>
 <br><br><br>
 
@@ -26,7 +25,14 @@
  
 <div align="center">
 <span>  </span>
-<img height="120px" src="https://github-readme-stats.vercel.app/api?username=Enchograph" /><span>  </span><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph&layout=compact&langs_count=8" /><span>  </span><img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=Enchograph" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Enchograph&rank_icon=github&include_all_commits=true" /><span>  </span><img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Enchograph" />
+<span>  </span>
+</div>
+
+<div align="center">
+<span>  </span>
+ </span><img height="271px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" /><span> 
+ </span><img height="271px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" /><span> 
 <span>  </span>
 </div>
 
