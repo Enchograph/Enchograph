@@ -19,9 +19,8 @@
 <br><br><br>
 
 ## 数据统计
-<br><br><br>
-<br><br><br>
 
+<br><br><br>
 <!--   stats + languages -->
  
 <div align="center">
@@ -36,25 +35,25 @@
  </span><img height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph" /><span> 
 <span>  </span>
 </div>
-
+<br><br><br>
 <div align="center">
 <!--   green snake -->
     <img src="https://raw.githubusercontent.com/Enchograph/Enchograph/output/github-contribution-grid-snake.svg" />
 </div>
 
-
+<br><br><br>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enchograph&bg_color=fffffF&color=0a0a10&line=36BCF7&point=607090" />
 </div>
 
 
-
+<br><br><br>
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
-
+<br><br><br>
 
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Enchograph&show-other-skills=true" width="auto"></img>
