@@ -55,5 +55,3 @@
 
 <br><br><br>
 
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Enchograph&show-other-skills=true" width="auto"></img>
