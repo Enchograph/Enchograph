@@ -2,7 +2,7 @@
 <br><br><br>
 <br><br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=40&letterSpacing=center&duration=2000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+There.;This+is+Chen+Hongyu.;Hoping+to+explore+the+worlds+unknown.;Nice+to+meet+you." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=40&letterSpacing=center&duration=2000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+There.;This+is+Chen+Guangxi.;Hoping+to+explore+the+worlds+unknown.;Nice+to+meet+you." alt="Typing SVG" /></a>
 
 
 <br><br><br>
