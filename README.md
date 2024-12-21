@@ -25,14 +25,14 @@
  
 <div align="center">
 <span>  </span>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Enchograph&rank_icon=github&include_all_commits=true" /><span>  </span><img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Enchograph" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Enchograph&rank_icon=github&include_all_commits=true&count_private=true" /><span>  </span><img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Enchograph&count_private=true" />
 <span>  </span>
 </div>
 
 <div align="center">
 <span>  </span>
- </span><img height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph&layout=donut" /><span> 
- </span><img height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph" /><span> 
+ </span><img height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph&layout=donut&count_private=true" /><span> 
+ </span><img height="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enchograph&count_private=true" /><span> 
 <span>  </span>
 </div>
 <br><br><br>
