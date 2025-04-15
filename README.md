@@ -11,8 +11,8 @@
 ## 关于
 <br><br><br>
 <br><br><br>
-<div align='center' ><font size=5>00 后 · 山西省实验中学 · WHU · 物理竞赛 · 计算机科学专业</font></div>
-<br>
+<!-- <div align='center' ><font size=5>00 后 · 山西省实验中学 · WHU · 物理竞赛 · 计算机科学专业</font></div>
+<br> -->
 <div align='center' ><font size=5>令德令才 · 实验实知 · 自强弘毅 · 求是拓新</font></div>
 
 <br><br><br>
